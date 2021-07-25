@@ -70,7 +70,7 @@ table td {
 .tournament-config td:nth-child(1)
 {
     width: 12em;
-    color: #9cb5e3;
+    color: #09cbd4;
     font-size: 100%;
     margin-right: 1em;
 }
@@ -146,7 +146,7 @@ h1, h2, h3 {
 
 .toc-container a:link, .toc-container a:visited
 {
-    color: #6da4c4;
+    color: #09cbd4;
     text-decoration: none;
 }
 
